@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hola, mi nombre es Cristóbal León-Salas 👋
 
-<!--
-**CRTobal1989/CRTobal1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Energías Renovables · Ciencia de Datos
+</br>
+</br>
+<p align="center">
+  <img src="Imagen.png" alt="Renewable Energy & Data Science" width="500">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Enfoque
+
+Trato de combinar tres pilares:
+
+**1. Rigor técnico**  
+Modelos estadísticos y de aprendizaje automático construidos sobre fundamentos sólidos.
+
+**2. Aplicabilidad real**  
+Desarrollo de soluciones pensadas para contextos regulatorios, financieros y operativos.
+
+**3. Visión estratégica**  
+Uso de datos como herramienta para reducir incertidumbre en decisiones de inversión y planificación energética.
+
+---
+
+## Líneas de trabajo que encontrarás en este repositorio
+
+- Modelización de precios eléctricos y análisis de mercados energéticos.  
+- Evaluación predictiva de variables ambientales (calidad del aire, impacto territorial).  
+- Comparativa entre modelos clásicos (ARIMA, SARIMAX) y enfoques de Machine Learning.  
+- Construcción de *pipelines* completos: ingestión, limpieza, modelado y visualización.  
+- Análisis geoespacial aplicado a selección y evaluación de emplazamientos.  
+
+---
+
+## Filosofía profesional
+
+- Modelos predictivos robustos  
+- Evaluación cuantitativa del riesgo  
+- Integración entre ingeniería y analítica avanzada  
+- Toma de decisiones basada en datos  
+
+---
+
+## Conecta conmigo
+
+📧 crileobuj@gmail.com  
+🔗 LinkedIn: [Añadir enlace]  
+[![Email](https://img.shields.io/badge/crileobuj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:crileobuj@gmail.com)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CRistóbal León-Salas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crist%C3%B3bal-le%C3%B3n-salas-bujalance-a67b6b90/)
