@@ -46,7 +46,4 @@ Uso de datos como herramienta para reducir incertidumbre en decisiones de invers
 ## Conecta conmigo
 
 📧 crileobuj@gmail.com  
-🔗 LinkedIn: [Añadir enlace]  
-[![Email](https://img.shields.io/badge/crileobuj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:crileobuj@gmail.com)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CRistóbal León-Salas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crist%C3%B3bal-le%C3%B3n-salas-bujalance-a67b6b90/)
+🔗 LinkedIn: [[https://www.linkedin.com/in/crist%C3%B3bal-le%C3%B3n-salas-bujalance-a67b6b90/]]
