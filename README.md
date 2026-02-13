@@ -1,12 +1,11 @@
 # Hola, mi nombre es Cristóbal León-Salas 👋
 
-### Desarrollo de Proyectos Renovables · Ciencia de Datos Aplicada · Modelización Predictiva · Machine Learning
+### Energías Renovables · Ciencia de Datos · Modelización Predictiva · Machine Learning
 </br>
 </br>
 <p align="center">
   <img src="Imagen.png" alt="Renewable Energy & Data Science" width="300">
 </p>
-</br>
 </br>
 Soy Ingeniero Industrial especializado en el desarrollo y gestión de proyectos de energías renovables en entornos nacionales e internacionales. 
 
