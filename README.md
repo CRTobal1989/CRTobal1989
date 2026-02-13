@@ -6,11 +6,11 @@
 <p align="center">
   <img src="Imagen.png" alt="Renewable Energy & Data Science" width="300">
 </p>
-</br>
+</p>
 Soy Ingeniero Industrial especializado en el desarrollo y gestión de proyectos de energías renovables en entornos nacionales e internacionales. 
-</br>
+</p>
 Combino experiencia en dirección de proyectos con capacidades avanzadas en analítica de datos, integrando herramientas como QGIS, Python y R para apoyar decisiones técnicas y estratégicas.
-</br>
+</p>
 Con formación de posgrado en Big Data y Data Science, aplico modelización estadística y machine learning a contextos energéticos y ambientales, orientando el análisis hacia la reducción de incertidumbre y la optimización de inversiones.
 
 ---
