@@ -4,7 +4,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="Imagen.png" alt="Renewable Energy & Data Science" width="500">
+  <img src="Imagen.png" alt="Renewable Energy & Data Science" width="300">
 </p>
 </br>
 </br>
